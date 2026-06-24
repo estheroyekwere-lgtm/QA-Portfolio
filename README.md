@@ -50,6 +50,31 @@ Hi, my name is Esther Chidimma Onyekwere. I am a Junior Software Tester passiona
 - Login Test
 - Flight Booking Test
 
+## Project Overview
+
+This repository contains QA artifacts created during the testing of the TEMU Mobile Application.
+
+### Documents Included
+
+- Test Plan
+- Test Cases
+- Bug Reports
+- Test Summary Report
+
+### Testing Types Performed
+
+- Functional Testing
+- UI Testing
+- Usability Testing
+- Regression Testing
+- Exploratory Testing
+
+### Tools Used
+
+- Jira
+- Excel
+- Chrome DevTools
+- Cypress
 
 ## Books
 - Foundations of Software Testing
