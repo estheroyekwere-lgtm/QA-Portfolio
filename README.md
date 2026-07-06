@@ -47,7 +47,6 @@ A complete manual testing project covering:
 - Bug Reporting
 - Test Summary Reporting
 
-#### Deliverables
 
 ## Deliverables
 
