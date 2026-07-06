@@ -1,4 +1,19 @@
-# QA Portfolio
+# QA Testing Portfolio
+
+Welcome to my Software Quality Assurance Portfolio.
+
+This repository showcases my practical experience in:
+
+- Test Planning
+- Test Case Design
+- Bug Reporting
+- Test Execution
+- Test Summary Reporting
+- API Testing
+- Automation Testing with Cypress
+
+Featured Project:
+**TEMU Mobile Application Testing**
 
 Hi, I'm Esther Chidimma Onyekwere 👋
 
