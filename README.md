@@ -74,7 +74,11 @@ Automation testing project developed using Cypress and JavaScript.
 
 📍 Abuja, Nigeria
 
+## Availability
+
 Open to:
-- QA Internships
-- Junior QA Roles
-- Software Engineering Internships
+
+- QA Internship Opportunities
+- Junior QA Tester Roles
+- Remote QA Projects
+- Entry-Level Software Testing Positions
