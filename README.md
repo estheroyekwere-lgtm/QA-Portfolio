@@ -49,15 +49,13 @@ A complete manual testing project covering:
 
 #### Deliverables
 
-📁 Test Plans
+## Deliverables
 
-📁 Test Cases
+- 📁 [Test Plans](./Test-Plans)
+- 📁 [Test Cases](./Test-Cases)
+- 📁 [Bug Reports](./Bug-Reports)
+- 📁 [Test Summary Reports](./Test-Summary-Reports)
 
-📁 Bug Reports
-
-📁 Test Summary Reports
-
----
 
 ### Cypress Automation Project
 
