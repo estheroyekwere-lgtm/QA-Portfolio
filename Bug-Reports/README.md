@@ -1,8 +1,17 @@
 # Bug Reports
 
-This folder contains documented defects identified during software testing projects.
+This folder contains defects identified during software testing projects.
 
-## Projects
-### TEMU Mobile App
+## TEMU Mobile App
+
+### Objective
+Document defects discovered during functional testing of the TEMU mobile application.
+
+### Deliverables
 - Bug Report PDF
-- Includes defect description, severity, priority, expected result, actual result, and reproduction steps.
+
+### Skills Demonstrated
+- Defect Identification
+- Bug Documentation
+- Severity & Priority Assignment
+- Reproduction Steps Writing
